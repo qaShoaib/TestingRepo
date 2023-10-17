@@ -7,5 +7,8 @@ public class AA {
 	public void M() {
 		System.out.println("From Method M");
 	}
+	public void MMM() {
+		System.out.println("From Method MMM");
+	}
 
 }
